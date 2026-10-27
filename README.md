@@ -1,4 +1,4 @@
-# Date :
+# Date :27.10.26
 ## Ex.-No-2-Interconnecting-Two-LANs-Using-a-Router-Basic-Router-Configuration
 
 
@@ -53,6 +53,12 @@ Router(config-if)# no shutdown<br>
 ________________________________________
 # Output (Screenshots)
 •	Router CLI configuration<br>
+<img width="1278" height="552" alt="image" src="https://github.com/user-attachments/assets/b23c40f0-74d5-4177-a612-8d9b7aed42ee" />
+
+<img width="1321" height="574" alt="image" src="https://github.com/user-attachments/assets/be7ccba0-3a50-4280-bae3-1f27a686ceca" />
+<img width="1158" height="646" alt="image" src="https://github.com/user-attachments/assets/be76cfb5-9df8-4c39-9fea-ac95530feaf9" />
+<img width="1350" height="675" alt="image" src="https://github.com/user-attachments/assets/c6c55a4c-2811-4395-b678-4c7ca3471116" />
+
 •	IP configurations on PCs<br>
 •	Successful ping between PC0 and PC1<br>
 ________________________________________
